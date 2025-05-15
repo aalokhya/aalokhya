@@ -14,6 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aalokhya karlapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aalokhya karlapati" height="30" width="40" /></a>
+<a href="https://medium.com/@aalokhyakarlapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aalokhyakarlapati" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aalokhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aalokhya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aalokhya&show_icons=true&locale=en" alt="aalokhya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aalokhya&" alt="aalokhya" /></p>
+
