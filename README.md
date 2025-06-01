@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aalokhya Karlapati</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">An enthusiastic AI/ML and Web Developer passionate about solving real-world problems through technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalokhya&label=Profile%20views&color=0e75b6&style=flat" alt="aalokhya" /> </p>
 
